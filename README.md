@@ -6,11 +6,11 @@
  
 <p align="left"> <a href="https://twitter.com/sir_vador" target="blank"><img src="https://img.shields.io/twitter/follow/sir_vador?logo=twitter&style=for-the-badge" alt="sir_vador" /></a> </p>
 
-- 🌱 I’m currently learning **Express,graphql, MondoDB**
+- 🌱 I’m currently learning **Typescript, Nextjs,graphQL**
 
 - 👨‍💻 All of my projects are available at [https://vincentkashaka.netlify.app/](https://vincentkashaka.netlify.app/)
 
-- 💬 Ask me about **HTML5, CSS3, Bootstrap, JavaScript, React, Node**
+- 💬 Ask me about **HTML5, CSS3, Bootstrap, Tailwind, JavaScript, React, Node, Express, MongoDB**
 
 - 📫 How to reach me **vincekashaka@gmail.com**
 
