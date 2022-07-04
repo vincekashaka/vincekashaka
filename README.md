@@ -9,7 +9,12 @@
 <br>
 <h2 align="center">About me</h2>
 <p align="center">
-    Hello, my name is Vincent Kashaka. I'm a MERN Stack developer and an Open Source Enthusiast. Have some questions or need help? Get in touch with me on <a href="https://www.linkedin.com/in/vincent-kashaka-1033b4197">LinkedIn</a> or <a href="https://twitter.com/sir_vador">Twitter</a>. 
+    Hello, my name is Vincent Kashaka. I'm a MERN Stack developer and an Open Source Enthusiast. Have some questions or need help? Get in touch with me on:
+    
+<p align="center">
+<a href="https://twitter.com/sir_vador"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vincent-kashaka-1033b4197/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ 
 </p>
 <hr>
 
@@ -26,10 +31,6 @@ I am currently learning Typescript,Nextjs, graphQL and PostgreSQL
 <hr>
 
 
-<p align="center">
-<a href="https://twitter.com/sir_vador"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/vincent-kashaka-1033b4197/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
- 
 
 
 <!--Trap--:)-->
