@@ -64,7 +64,7 @@ I am currently learning Typescript, graphQL and PostgreSQL
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <strong> :octocat: I am honored to be part of these organisations :octocat: </strong><br>
+      <strong> :octocat: I am honored to be part of EddieHub Open Source Community :octocat: </strong><br>
       <table>
         <tr>
           </td>
@@ -95,7 +95,6 @@ I am currently learning Typescript, graphQL and PostgreSQL
     - <a href="https://github.com/eddiejaoude">Eddie Jaoude</a><br /> 
      - <a href="https://github.com/leonnoel">Leon Noel</a><br /> 
 </details>
-
-< 
+ 
 
  
