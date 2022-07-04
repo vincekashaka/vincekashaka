@@ -93,13 +93,9 @@ I am currently learning Typescript, graphQL and PostgreSQL
 
 <details><summary>Shout out and thank you to these awesome people 🏆</summary>
     - <a href="https://github.com/eddiejaoude">Eddie Jaoude</a><br /> 
+     - <a href="https://github.com/leonnoel">Leon Noel</a><br /> 
 </details>
 
-<details><summary>Top 5 Community Discussions 🥇:octocat:</summary>
-    - 1. <a href="https://github.com/EddieHubCommunity/support/discussions/1779">EddieHub Open Source Ambassador</a><br /> 
-    - 2. <a href="https://github.com/EddieHubCommunity/support/discussions/1710">EddieHub Modules</a><br /> 
-    - 3. <a href="https://github.com/EddieHubCommunity/support/discussions/780">EddieHub Open Source SWAG</a><br /> 
-    - 4. <a href="https://github.com/EddieHubCommunity/support/discussions/604s">EddieHub Events Calendar</a><br /> 
-</details>
+< 
 
  
