@@ -19,9 +19,9 @@
 <p align="center">
 Ask me about HTML5, CSS3, Bootstrap, Tailwind, JavaScript, React, Node, Express, MongoDB
 </p>
-<hr>
+<br>
 <p align="center">
-I am currently learning Typescript, graphQL and PostgreSQL
+I am currently learning Typescript,Nextjs, graphQL and PostgreSQL
 </p>
 <hr>
 
@@ -34,12 +34,7 @@ I am currently learning Typescript, graphQL and PostgreSQL
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
- 
-<h2 align="center">About me</h2>
-<p align="center">
-    Hello, my name is Vincent Kashaka. I'm a MERN Stack developer and an Open Source Enthusiast. Have some questions or need help? Get in touch with me on <a href="https://www.linkedin.com/in/vincent-kashaka-1033b4197">LinkedIn</a> or <a href="https://twitter.com/sir_vador">Twitter</a>. 
-</p>
- 
+  
  
 <hr />
 
