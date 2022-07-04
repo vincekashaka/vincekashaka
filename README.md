@@ -1,20 +1,17 @@
 <img align="center" src="https://camo.githubusercontent.com/f7894ccfe5f969fc2ef0c0023ae611e88da80b9381f0b90360d58b158d27593b/68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67">
 <h2 align="center">HI THERE! WELCOME TO MY GITHUB PROFILE 👋</h2>
-<p align="center">
-:octocat:<a href="https://github.com/vinzvinci/code-with-me"><img src="https://img.shields.io/badge/-I'm%20an%20for%20Open%20Source%20Enthusiast-green?style=for-the-badge&logo=github"></a>:octocat:
-</p>
-<br>
+
 <br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=OPEN%20SOURCE%20FOR%20THE%20WIN!;Empowering%20Others;Collaboration%201st,%20Code%202nd.;Community%20make%20things%20easier;You%20don't%20have%20to%20be%20an%20expert%20to%20teach;Let's%20support%20each%20other;&center=true&width=470&height=45"></a>
 </p>
 
 <br>
-<br>
 <h2 align="center">About me</h2>
 <p align="center">
     Hello, my name is Vincent Kashaka. I'm a MERN Stack developer and an Open Source Enthusiast. Have some questions or need help? Get in touch with me on <a href="https://www.linkedin.com/in/vincent-kashaka-1033b4197">LinkedIn</a> or <a href="https://twitter.com/sir_vador">Twitter</a>. 
 </p>
+<hr>
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
