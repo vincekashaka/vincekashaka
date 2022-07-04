@@ -79,11 +79,12 @@ Ask me about **HTML5, CSS3, Bootstrap, Tailwind, JavaScript, React, Node, Expres
       </table>
     </td>
     <td align="center">
-      <img width="120%" src="https://github-readme-stats.vercel.app/api?username=vincekashaka&count_private=true&theme=radical&show_icons=true" />
+      <img width="120%" src="https://github-readme-stats.vercel.app/api?username=vincekashaka&count_private=true&theme=dark&show_icons=true" />
     </td>
   </tr>
   <tr>
-          <td align="center">
+  
+ <td align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincekashaka&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
           </td>
     <td align="center">
